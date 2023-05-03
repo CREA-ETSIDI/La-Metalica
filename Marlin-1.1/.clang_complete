@@ -1,0 +1,26 @@
+-IC:/Users/marce/Downloads/Marlin-1.1.x/include
+-IC:/Users/marce/Downloads/Marlin-1.1.x/Marlin
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/TMC26XStepper
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/Arduino-L6470/src
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/LiquidTWI2
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/Adafruit NeoPixel
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/TMC2208Stepper/src
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/TMC2130Stepper/src
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/LiquidCrystal_I2C
+-IC:/Users/marce/Downloads/Marlin-1.1.x/.piolibdeps/megaatmega2560/U8glib-HAL/src
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/cores/arduino
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/variants/mega
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-IC:/Users/marce/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-IC:/Users/marce/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include
+-IC:/Users/marce/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed
+-IC:/Users/marce/.platformio/packages/toolchain-atmelavr/avr/include
+-DPLATFORMIO=50101
+-DARDUINO_AVR_MEGA2560
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega2560__
